@@ -1,4 +1,4 @@
-# Bank Customer Default Analysis
+# Bank Customer Default Risk Analysis
 
 ## Project Overview
 
